@@ -1,1 +1,1 @@
-# Decimal-to-binary-and-visa-versa
+# Decimal-to-binary-and-vise-versa
